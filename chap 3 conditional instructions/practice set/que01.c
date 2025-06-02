@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//que in the pdf
 int main()
 {
     int a = 10;
